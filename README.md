@@ -1,8 +1,12 @@
 # Vite 8.1 WASM ESM Integration Sandbox
 
+[![Deploy](https://github.com/drumath2237/vite8-wasm-esmodule-sandbox/actions/workflows/deploy.yml/badge.svg)](https://github.com/drumath2237/vite8-wasm-esmodule-sandbox/actions/workflows/deploy.yml)
+
 ## About
 
 A sandbox project for trying out a new feature of Vite 8.1.0 called [WebAssembly ES Module Integration](https://vite.dev/blog/announcing-vite8-1#wasm-esm-integration-support).
+
+[Demo page](https://drumath2237.github.io/vite8-wasm-esmodule-sandbox/)
 
 ## Tested Environment
 
