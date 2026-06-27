@@ -19,5 +19,9 @@ prepare:
     pnpm install
 
 [working-directory: vitedir]
+check:
+    pnpm run check
+
+[working-directory: vitedir]
 dev:
     pnpm dev
