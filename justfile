@@ -13,3 +13,11 @@ build-wasm:
 [working-directory: vitedir]
 build-vite:
     pnpm build
+
+[working-directory: vitedir]
+prepare:
+    pnpm install
+
+[working-directory: vitedir]
+dev:
+    pnpm dev

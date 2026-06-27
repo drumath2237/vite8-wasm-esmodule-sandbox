@@ -19,7 +19,7 @@
     "erasableSyntaxOnly": true,
     "noFallthroughCasesInSwitch": true,
 
-    "allowArbitraryExtensions": true,
+    "allowArbitraryExtensions": true
   },
-  "include": ["src"],
+  "include": ["src"]
 }
