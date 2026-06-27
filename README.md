@@ -6,6 +6,13 @@
 
 A sandbox project for trying out a new feature of Vite 8.1.0 called [WebAssembly ES Module Integration](https://vite.dev/blog/announcing-vite8-1#wasm-esm-integration-support).
 
+```ts
+import { add } from "../wasm/math_wasm.wasm";
+
+const result = add(1, 2);
+console.log(result);
+```
+
 [Demo page](https://drumath2237.github.io/vite8-wasm-esmodule-sandbox/)
 
 ## Tested Environment
