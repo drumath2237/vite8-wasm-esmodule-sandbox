@@ -1,3 +1,12 @@
 import "./style.css";
 
-console.log("Hello");
+function main() {
+  const app = document.getElementById("app");
+  if (!(app instanceof HTMLDivElement)) {
+    return;
+  }
+
+  app.textContent = "Hello!";
+}
+
+main();
