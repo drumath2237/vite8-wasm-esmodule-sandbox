@@ -23,7 +23,7 @@ console.log(result);
   - with `wasm32-unknown-unknown` target
 - Node.js 24.16.0
 - pnpm 11.8.0
-- Vite 8.1.0
+- Vite 8.1.5
 
 ## Directory Structure
 
